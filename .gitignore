@@ -52,5 +52,5 @@ logs/
 /public/downloads/
 
 # mine
-.env.*
-*.txt
+.env.example
+api-requirements.txt
