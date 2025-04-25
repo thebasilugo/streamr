@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "StreamR - Movie Reviews and Streaming",
   description: "Watch, rate, and review your favorite movies",
-    generator: 'v0.dev'
+    generator: 'thebasilugo'
 }
 
 export default function RootLayout({
